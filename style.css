@@ -1,0 +1,34 @@
+#home,#about,#menu,#location,#contactinformation{
+    color:paleturquoise;
+    font-size: 40px;
+    background-color:red;
+}
+nav{
+    color: black;
+    background-color: rgb(247, 212, 123);
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    text-align:right;
+}
+p{
+    color: rgb(6, 6, 77);
+}
+
+
+
+#section1{
+    background-color: lightslategrey;
+    
+}
+#section2{
+    background-color: lightpink;
+}
+#section3{
+    background-color:lightsalmon;
+}
+#section4{
+    background-color:rgb(220, 220, 139);
+}
+footer{
+    background-color: tomato;
+}
